@@ -1,0 +1,356 @@
+style,college
+background-color: #461660; color: white; border-bottom: 4px solid #EEB211;,Albany
+background-color: #005A43; color: white; border-bottom: 4px solid #B1B3B3;,Binghamton
+background-color: #C02427; color: white; border-bottom: 4px solid #000000;,Hartford
+background-color: #003263; color: white; border-bottom: 4px solid #B0D7FF;,Maine
+background-color: #041E42; color: white; border-bottom: 4px solid #BBBCBC;,New Hampshire
+background-color: #990000; color: white; border-bottom: 4px solid #16243E;,Stony Brook
+background-color: #003DA5; color: white; border-bottom: 4px solid #C8102E;,Umass Lowell
+background-color: #B18906; color: white; border-bottom: 4px solid #FFC20E;,UMBC
+background-color: #154734; color: white; border-bottom: 4px solid #FFC72C;,Vermont
+background-color: #003831; border-bottom: 4px solid #ffe395;,Cal Poly
+background-color: #00274c; border-bottom: 4px solid #dc8218;,Cal State Fullerton
+background-color: #ce1126; border-bottom: 4px solid #d1cec6;,CSUN
+background-color: #154734; border-bottom: 4px solid #CCCCCC;,Hawaii
+background-color: #000000; border-bottom: 4px solid #FFC72A;,Long Beach State
+background-color: #002855; border-bottom: 4px solid #b3a369;,UC Davis
+background-color: #0c2340; border-bottom: 4px solid #ffc72c;,UC Irvine
+background-color: #2d6cc0; border-bottom: 4px solid #f1ab00;,UC Riverside
+background-color: #003660; border-bottom: 4px solid #FEBC11;,UC Santa Barbara
+background-color: #BA9B37; border-bottom: 4px solid #FFC904;,Central Florida Knights
+background-color: #e00122; border-bottom: 4px solid #000;,Cincinnati
+background-color: #000e2f; border-bottom: 4px solid #e4002b;,Connecticut Huskies
+background-color: #592a8a; border-bottom: 4px solid #FDC82F;,East Carolina
+background-color: #c8102e; border-bottom: 4px solid #C8102E;,Houston
+background-color: #003087; border-bottom: 4px solid #898D8D;,Memphis
+background-color: #00205b; border-bottom: 4px solid #C5B783;,Navy
+background-color: #0033a0; border-bottom: 4px solid #C8102E;,SMU Mustangs
+background-color: #006747; border-bottom: 4px solid #CFC493;,South Florida
+background-color: #9d2235; border-bottom: 4px solid #9D2235;,Temple
+background-color: #006747; border-bottom: 4px solid #006747;,Tulane
+background-color: #002d72; border-bottom: 4px solid #c8102e;,Tulsa
+background-color: #000; border-bottom: 4px solid #ffcd00;,Wichita State
+background-color: #13294B; color: white; border-bottom: 4px solid #e84a27;,Illinois
+background-color: #990000; color: #eeedeb; border-bottom: 4px solid #eeedeb;,Indiana
+background-color: #ffcd00; color: black; border-bottom: 4px solid #000;,Iowa
+background-color: #e03a3e; border-bottom: 4px solid #ffd520; color: white;,Maryland
+background-color: #00274c; color: #ffcb05; border-bottom: 4px solid #ffcb05;,Michigan
+background-color: #18453b; color: white; border-bottom: 4px solid #d1d1d1;,Michigan State
+background-color: #7a0019; color: #ffcc33; border-bottom: 4px solid #ffcc33;,Minnesota
+background-color: #c8102e; color: white; border-bottom: 4px solid black;,Nebraska
+background-color: #4e2a84; color: white; border-bottom: 4px solid #4e2a84;,Northwestern
+background-color: #bb0000; color: white; border-bottom: 4px solid #666666;,Ohio State
+background-color: #093162; color: white; border-bottom: 4px solid white;,Penn State
+background-color: #000000; color: #fff; border-bottom: 4px solid #c28e0e;,Purdue
+background-color: #cc0033; border-bottom: 4px solid #5f6a72; color: white;,Rutgers
+background-color: #c50505; color: white; border-bottom: 4px solid black;,Wisconsin
+background-color: #ac1a2f; border-bottom: 4px solid #000000;,Davidson
+background-color: #ce1141; border-bottom: 4px solid #004B8D;,Dayton
+background-color: #041e42; border-bottom: 4px solid #BA0C2F;,Duquesne
+background-color: #860038; border-bottom: 4px solid #860038;,Fordham
+background-color: #006633; border-bottom: 4px solid #FFCC33;,George Mason
+background-color: #002654; border-bottom: 4px solid #E2CB92;,George Washington
+background-color: #003366; border-bottom: 4px solid #FFCC00;,La Salle
+background-color: #971b2f; border-bottom: 4px solid #572932;,UMass
+background-color: #002147; border-bottom: 4px solid #68ABE8;,Rhode Island
+background-color: #000066; border-bottom: 4px solid #990000;,Richmond
+background-color: #54261a; border-bottom: 4px solid #FDB726;,St. Bonaventure
+background-color: #9e1b32; border-bottom: 4px solid #6C6F70;,Saint Joseph’s
+background-color: #003da5; border-bottom: 4px solid #C8C9C7;,St. Louis
+background-color: #ffb300; border-bottom: 4px solid #000000;,VCU
+background-color: #f58025; color: black; border-bottom: 4px solid #231f20;,Campbell Fighting Camels
+background-color: #a8996e; color: black; border-bottom: 4px solid #002855;,Charleston Buccaneers
+background-color: #bf2f37; color: white; border-bottom: 4px solid #000000;,Gardner-Webb Bulldogs
+background-color: #0060a9; color: white; border-bottom: 4px solid #ffffff;,Hampton Pirates
+background-color: #330072; color: white; border-bottom: 4px solid #ffffff;,High Point Panthers
+background-color: #15213b; color: white; border-bottom: 4px solid #999D9E;,Longwood Lancers
+background-color: #0060a9; color: white; border-bottom: 4px solid #9D2235;,Presbyterian Blue Hose
+background-color: #c2011b; color: white; border-bottom: 4px solid #d1d3d4;,Radford Highlanders
+background-color: #003da5; color: white; border-bottom: 4px solid #ffffff;,UNC Asheville Bulldogs
+background-color: #660000; color: white; border-bottom: 4px solid #F0B323;,Winthrop Eagles
+background-color: #a10022; color: white; border-bottom: 4px solid #000000;,Eastern Washington
+background-color: #B3A369; color: white; border-bottom: 4px solid #000;,Idaho
+background-color: #660033; color: white; border-bottom: 4px solid #999999;,Idaho State
+background-color: #660033; color: white; border-bottom: 4px solid #999999;,Montana
+background-color: #00205B; color: white; border-bottom: 4px solid #B9975B;,Montana State
+background-color: #003466; color: white; border-bottom: 4px solid #ffd200;,Northern Arizona
+background-color: #013C65; color: white; border-bottom: 4px solid #F6B000;,Northern Colorado
+background-color: #154734; color: white; border-bottom: 4px solid #154734;,Portland State
+background-color: #043927; color: white; border-bottom: 4px solid #C4B581;,Sacramento State
+background-color: #C41425; color: white; border-bottom: 4px solid #000000;,Southern Utah
+background-color: #4B2682; color: white; border-bottom: 4px solid #a1a1a4;,Weber State
+background-color: #98002E; color: white; border-bottom: 4px solid #BC9B6A;,Boston College
+background-color: #f66733; color: white; border-bottom: 4px solid #522d80;,Clemson
+background-color: #001a57; color: white; border-bottom: 4px solid #003366;,Duke
+background-color: #782f40; color: #ceb888; border-bottom: 4px solid #ceb888;,Florida State
+background-color: #eeb211; color: white; border-bottom: 4px solid #262626;,Georgia Tech
+background-color: #Ad0000; color: white; border-bottom: 4px solid #000;,Louisville
+background-color: #f47321; color: #fff; border-bottom: 4px solid #005030;,Miami
+background-color: #4b9cd3; color: #e1e1e1; border-bottom: 4px solid #13294b;,North Carolina
+background-color: #cc0000;color: white; border-bottom: 4px solid black;,North Carolina State
+background-color: #0c2340; color: white; border-bottom: 4px solid #c99700;,Notre Dame
+background-color: #003594; color: white; border-bottom: 4px solid #FFB81C;,Pittsburgh
+background-color: #d44500; color: #e8eAeb; border-bottom: 4px solid #3e3d3c;,Syracuse
+background-color:#232D4b; border-bottom: 4px solid #e57200; color: #fff;,Virginia
+background-color:#8a1e41; border-bottom: 4px solid #ee7623; color: #fff;,Virginia Tech
+background-color:#a67f31; border-bottom: 4px solid #000; color: #fff;,Wake Forest
+background-color: #1d3c34; color: #fff; border-bottom: 4px solid #ffb81c;,Baylor
+background-color: #c8102e; color: #fff; border-bottom: 4px solid #f1be48;,Iowa State
+background-color: #0051ba; border-bottom: 4px solid #e8000d; color: #ffc82d;,Kansas
+background-color: #512888; color: #fff; border-bottom: 4px solid #a7a7a7;,Kansas State
+background-color:#841617; color: white; border-bottom: 4px solid #fdf9d8;,Oklahoma
+background-color: #ff7300; color: #fff; border-bottom: 4px solid black;,Oklahoma State
+background-color: #bf5700; color: white; border-bottom: 4px solid #333f48;,Texas
+background-color: #4d1979; color: white; border-bottom: 4px solid #a3a9ac;,Texas Christian
+background-color: #cc0000;color: white; border-bottom: 4px solid black;,Texas Tech
+background-color:#002855; border-bottom: 4px solid #eaaa00; color: #fff;,West Virginia
+background-color: #13294B; border-bottom: 4px solid #747678;,Butler
+background-color: #005CA9; border-bottom: 4px solid #00235D;,Creighton
+background-color: #005EB8; border-bottom: 4px solid #E4002B;,DePaul
+background-color: #041e42; border-bottom: 4px solid #8D817B;,Georgetown
+background-color: #003366; border-bottom: 4px solid #ffcc00;,Marquette
+background-color: #000000; border-bottom: 4px solid #8a8d8f;,Providence
+background-color: #004488; border-bottom: 4px solid #A2AAAD;,Seton Hall
+background-color: #BA0C2F; border-bottom: 4px solid #041c2c;,St. John’s
+background-color: #00205B; border-bottom: 4px solid #13B5EA;,Villanova
+background-color: #0c2340; border-bottom: 4px solid #9ea2a2;,Xavier
+background-color: #800000; color: white; border-bottom: 4px solid #9D8958;,Charleston Cougars
+background-color: #00539f; color: white; border-bottom: 4px solid #ffd200;,Delaware Blue Hens
+background-color: #ffda02; color: white; border-bottom: 4px solid #00437b;,Drexel Dragons
+background-color: #73000a; color: white; border-bottom: 4px solid #b59a57;,Elon Phoenix
+background-color: #0b1e73; color: white; border-bottom: 4px solid #FEB612;,Hofstra Pride
+background-color: #450084; color: white; border-bottom: 4px solid #CBB677;,James Madison Dukes
+background-color: #d41b2c; color: white; border-bottom: 4px solid #000000;,Northeastern Huskies
+background-color: #ffbb00; color: white; border-bottom: 4px solid #3C3C3C;,Towson Tigers
+background-color: #003366; color: white; border-bottom: 4px solid #FFD600;,UNC Seahawks
+background-color: #115740; color: white; border-bottom: 4px solid #F0B323;,William & Mary Tribe
+background-color: #006747; border-bottom: 4px solid #000;,Cleveland State
+background-color: #A6093D; border-bottom: 4px solid #002d72;,Detroit Mercy
+background-color: #006747; border-bottom: 4px solid #9d2235;,Green Bay
+background-color: #9d2235; border-bottom: 4px solid #dfd1a7;,IUPUI
+background-color: #ffbd00; border-bottom: 4px solid #000; color: black;,Milwaukee
+background-color: #FFC72C; border-bottom: 4px solid #000; color: black;,Northern Kentucky
+background-color: #B59A57; border-bottom: 4px solid #000;,Oakland
+background-color: #041E42; border-bottom: 4px solid #AC1E2D;,UIC
+background-color: #026937; border-bottom: 4px solid #cea052;,Wright State
+background-color: #c8102e; border-bottom: 4px solid #000;,Youngstown State
+background-color: #002d72; border-bottom: 4px solid #007749;,Florida Gulf Coast
+background-color: #004e44; border-bottom: 4px solid #898A8D;,Jacksonville
+background-color: #fdbb30; border-bottom: 4px solid #0B1315; color: black;,Kennesaw State
+background-color: #002d62; border-bottom: 4px solid #c41230; color: white;,Liberty Flames
+background-color: #331e54; border-bottom: 4px solid #F4AA00;,Lipscomb University
+background-color: #46166b; border-bottom: 4px solid #DB9F11; color: white;,North Alabama
+background-color: #d22630; border-bottom: 4px solid #071D49;,NJIT
+background-color: #00246b; border-bottom: 4px solid #D9D9D9;,North Florida
+background-color: #00703c; border-bottom: 4px solid #000; color: white;,South Carolina Upstate
+background-color: #00703c; border-bottom: 4px solid #B58150; color: white;,Stetson
+background-color: #4E3629; border-bottom: 4px solid #e4002b;,Brown
+background-color: #003865; border-bottom: 4px solid #9BCBEB;,Columbia
+background-color: #B31B1B; border-bottom: 4px solid #000000;,Cornell
+background-color: #046A38; border-bottom: 4px solid #000000;,Dartmouth
+background-color: #A41034; border-bottom: 4px solid #000000;,Harvard
+background-color: #011F5B; border-bottom: 4px solid #990000;,Penn
+background-color: #FF671F; border-bottom: 4px solid #000000;,Princeton
+background-color: #00356B; border-bottom: 4px solid #00356B;,Yale
+background-color: #046A38; border-bottom: 4px solid #B9975B;,Charlotte
+background-color: #003366; border-bottom: 4px solid #cc0000;,Florida Atlantic (FAU)
+background-color: #081E3F; border-bottom: 4px solid #B6862C;,Florida International (FIU)
+background-color: #E31B23; border-bottom: 4px solid #002F8B;,Louisiana Tech
+background-color: #00B140; border-bottom: 4px solid #27251F;,Marshall
+background-color: #0066CC; border-bottom: 4px solid #000;,Middle Tennessee
+background-color: #00853E; border-bottom: 4px solid #000;,North Texas
+background-color: #003057; border-bottom: 4px solid #7C878E;,Old Dominion
+background-color: #00205B; border-bottom: 4px solid #C1C6C8;,Rice
+background-color: #000; border-bottom: 4px solid #FFAB00;,Southern Miss
+background-color: #006341; border-bottom: 4px solid #CC8A00;,UAB
+background-color: #FF8200; border-bottom: 4px solid #041E42;,UTEP
+background-color: #F15A22; border-bottom: 4px solid #0C2340;,UTSA
+background-color: #c60c30; border-bottom: 4px solid #1e1e1e;,WKU
+background-color: #041E42; border-bottom: 4px solid #A89969;,Akron
+background-color: #4F2C1D; border-bottom: 4px solid #FE5000;,Bowling Green
+background-color: #005BBB; border-bottom: 4px solid #FE5000;,Buffalo
+background-color: #002664; border-bottom: 4px solid #EAAB00;,Kent State
+background-color: #B61E2E; border-bottom: 4px solid #000;,Miami
+background-color: #00694E; border-bottom: 4px solid #CDA077;,Ohio
+background-color: #BA0C2F; border-bottom: 4px solid #000000;,Ball State
+background-color: #6A0032; border-bottom: 4px solid #6A0032;,Central Michigan
+background-color: #006633; border-bottom: 4px solid #000000;,Eastern Michigan
+background-color: #BA0C2F; border-bottom: 4px solid #8A8D8F;,Northern Illinois
+background-color: #15397F; border-bottom: 4px solid #FFDA00;,Toledo
+background-color: #15397F; border-bottom: 4px solid #B5A167;,Western Michigan
+background-color: #0c2340; border-bottom: 4px solid #FFBA00;,Canisius
+background-color: #c8102e; border-bottom: 4px solid #A2AAAD;,Fairfield
+background-color: #6f2c3f; border-bottom: 4px solid #F2A900;,Iona
+background-color: #00703c; border-bottom: 4px solid #00703C;,Manhattan
+background-color: #c8102e; border-bottom: 4px solid #B2B2B2;,Marist
+background-color: #041e42; border-bottom: 4px solid #53565A;,Monmouth
+background-color: #582c83; border-bottom: 4px solid #582C83;,Niagara
+background-color: #981e32; border-bottom: 4px solid #6C6F70;,Rider
+background-color: #003c71; border-bottom: 4px solid #0072CE;,St. Peter’s
+background-color: #0c2340; border-bottom: 4px solid #FFC72C;,Quinnipiac Bobcats
+background-color: #006747; border-bottom: 4px solid #FFC72C;,Siena
+background-color: #f2a900; color: white; border-bottom: 4px solid #6F263D;,B-C Wildcats
+background-color: #003056; color: white; border-bottom: 4px solid #ffc915;,Coppin State Eagles
+background-color: #ee3124; color: white; border-bottom: 4px solid #009DDC;,Delaware State Hornets
+background-color: #ee7624; color: white; border-bottom: 4px solid #1b5633;,Florida A&M Rattlers
+background-color: #003a63; color: white; border-bottom: 4px solid #e51937;,Howard Bisons
+background-color: #862633; color: white; border-bottom: 4px solid #888B8D;,Maryland E.S. Hawks
+background-color: #1b4383; color: white; border-bottom: 4px solid #f47937;,Morgan State Bears
+background-color: #007a53; color: white; border-bottom: 4px solid #F3D03E;,Norfolk State Spartans
+background-color: #f3b237; color: white; border-bottom: 4px solid #003d6d;,North Carolina Aggies
+background-color: #880023; color: white; border-bottom: 4px solid #8e9093;,North Carolina Eagles
+background-color: #862633; color: white; border-bottom: 4px solid #001A72;,South Carolina Bulldogs
+background-color: #003087; border-bottom: 4px solid #B1B3B3;,Air Force
+background-color: #0033A0; border-bottom: 4px solid #d64309;,Boise State
+background-color: #1E4D2B; border-bottom: 4px solid #C8C372;,Colorado State
+background-color: #db0032; border-bottom: 4px solid #002E6d;,Fresno State
+background-color: #024731; border-bottom: 4px solid #c8c8c8;,Hawaii
+background-color: #003366; border-bottom: 4px solid #807F84;,Nevada
+background-color: #Ba0c2f; border-bottom: 4px solid #63666A;,New Mexico
+background-color: #A6192E; border-bottom: 4px solid #000;,San Diego State
+background-color: #0055A2; border-bottom: 4px solid #e5A823;,San Jose State
+background-color: #b10202; border-bottom: 4px solid #666666;,UNLV
+background-color: #0F2439; border-bottom: 4px solid #9d968d;,Utah State
+background-color: #492f24; border-bottom: 4px solid #ffc425;,Wyoming
+background-color: #c41e3a; color: white; border-bottom: 4px solid #ADAFAA;,Austin Peay Governors
+background-color: #00205b; color: white; border-bottom: 4px solid #C8102E;,Belmont Bruins
+background-color: #919295; color: white; border-bottom: 4px solid #00205B;,Eastern Illinois Panthers
+background-color: #8a0039; color: white; border-bottom: 4px solid #ffffff;,E. Kentucky Colonels
+background-color: #cc0000; color: white; border-bottom: 4px solid #ffffff;,J. State Gamecocks
+background-color: #ffcf00; color: white; border-bottom: 4px solid #005EB8;,Morehead State Eagles
+background-color: #ecac00; color: white; border-bottom: 4px solid #002144;,Murray State Racers
+background-color: #000000; color: white; border-bottom: 4px solid #C8102E;,SE M.S. Redhawks
+background-color: #ef3829; color: white; border-bottom: 4px solid #ffffff;,SIUE Cougars
+background-color: #00539f; color: white; border-bottom: 4px solid #ffffff;,Tennessee State Tigers
+background-color: #4f2984; color: white; border-bottom: 4px solid #FFDD00;,Tennessee Golden Eagles
+background-color: #f79728; color: white; border-bottom: 4px solid #002a5b;,UT Martin Skyhawks
+background-color: #A50000; border-bottom: solid 4px #999999;,Bradley
+background-color: #004477; border-bottom: solid 4px #999999;,Drake
+background-color: #52237F; border-bottom: 4px solid #F36F21;,Evansville
+background-color: #CE1126; border-bottom: 4px solid #F9DD16;,Illinois State
+background-color: #0142BC; border-bottom: 4px solid #0142BC;,Indiana State
+background-color: #922247; border-bottom: 4px solid #febd18;,Loyola
+background-color: #5E0009; border-bottom: 4px solid #000000;,Missouri State
+background-color: #4B116F; border-bottom: 4px solid #FFCC00;,Northern Iowa
+background-color: #720000; border-bottom: 4px solid #000000;,Southern Illinois
+background-color: #381E0E; border-bottom: 4px solid #FFCC00;,Valparaiso
+background-color: #cc0033; border-bottom: 4px solid #003366; color: white;,Arizona
+background-color: #8c1d40; color: #fff; border-bottom: 4px solid #ffc627;,Arizona State
+background-color: #003262; color: #fdb515; border-bottom: 4px solid #fdb515;,California
+background-color:#cfb87c; color: #000; border-bottom: 4px solid #000;,Colorado
+background-color: #154733; color: white; border-bottom: 4px solid #fee123;,Oregon
+background-color: #dc4405; color: white; border-bottom: 4px solid #000;,Oregon State
+background-color: #8C1515; color: white; border-bottom: 4px solid #4D4F53;,Stanford
+background-color: #2d68c4; color: white; border-bottom: 4px solid #f2a900;,UCLA
+background-color:#9d2235; border-bottom: 4px solid #ffc72c; color: #ffc72c;,USC
+background-color:#cc0000; border-bottom: 4px solid #808080; color: #fff;,Utah
+background-color:#4b2e83; border-bottom: 4px solid #b7a57a; color: #fff;,Washington
+background-color:#981e32; border-bottom: 4px solid #5e6a71; color: #fff;,Washington State
+background-color: #b4975b; color: white; border-bottom: 4px solid #000000;,Bryant Bulldogs
+background-color: #00539b; color: white; border-bottom: 4px solid #cfd4d8;,C. C. Blue Devils
+background-color: #72293c; color: white; border-bottom: 4px solid #28334a;,F. Dickinson Knights
+background-color: #69b3e7; color: white; border-bottom: 4px solid #FFC72C;,Long Island Sharks
+background-color: #003768; color: white; border-bottom: 4px solid #fdb813;,Merrimack Warriors
+background-color: #84754e; color: white; border-bottom: 4px solid #002855;,St.Mary’s Mountaineers
+background-color: #14234b; color: white; border-bottom: 4px solid #a6192e;,Robert Morris Colonials
+background-color: #ce1141; color: white; border-bottom: 4px solid #b1b3b6;,Sacred Heart Pioneers
+background-color: #005496; color: white; border-bottom: 4px solid #e03a3e;,St.Francis Terriers
+background-color: #bd1f25; color: white; border-bottom: 4px solid #000000;,St.Francis Red Flash
+background-color: #00483a; color: white; border-bottom: 4px solid #b9bbbd;,Wagner Seahawks
+background-color: #00386B; color: white; border-bottom: 4px solid #E0AA0F;,Chattanooga
+background-color: #041E42; color: white; border-bottom: 4px solid #FFC72C;,ETSU
+background-color: #F76800; color: white; border-bottom: 4px solid #000;,Mercer
+background-color: #201547; color: white; border-bottom: 4px solid #582C83;,Furman
+background-color: #002649; color: white; border-bottom: 4px solid #c4161d;,Samford
+background-color: #3975B7; color: white; border-bottom: 4px solid #1F3A60;,The Citadel
+background-color: #0f2044; color: white; border-bottom: 4px solid #ffb71b;,UNC Greensboro
+background-color: #A71F23; color: white; border-bottom: 4px solid #ffd520;,VMI
+background-color: #592C88; color: white; border-bottom: 4px solid #C1A875;,Western Carolina
+background-color: #886E4C; color: white; border-bottom: 4px solid #000;,Wofford
+background-color: #4f2170; color: white; border-bottom: 4px solid #c5c6c8;,Abilene Christian Wildcats
+background-color: #4f2d7f; color: white; border-bottom: 4px solid #818a8f;,Central Arkansas Bears
+background-color: #1c4e9d; color: white; border-bottom: 4px solid #f3652c;,Houston Baptist Huskies
+background-color: #cb333b; color: white; border-bottom: 4px solid #000000;,Incarnate Word Cardinals
+background-color: #dc0032; color: white; border-bottom: 4px solid #fcb034;,Lamar Cardinals
+background-color: #00529b; color: white; border-bottom: 4px solid #ffd204;,McNeese Cowboys
+background-color: #005ca6; color: white; border-bottom: 4px solid #a3a9ac;,New Orleans Privateers
+background-color: #ae132a; color: white; border-bottom: 4px solid #72808a;,Nicholls Colonels
+background-color: #663399; color: white; border-bottom: 4px solid #ff6600;,N.S. Demons
+background-color: #fe5100; color: white; border-bottom: 4px solid #ffffff;,S.H.S. Bearkats
+background-color: #006341; color: white; border-bottom: 4px solid #eaaa00;,SE Louisiana Lions
+background-color: #613393; color: white; border-bottom: 4px solid #ffffff;,Stephen F.A. Lumberjacks
+background-color: #0067c5; color: white; border-bottom: 4px solid #007F3E;,Texas A&M-CC Islanders
+background-color: #8b2332; border-bottom: 4px solid #8b6f4b;,Denver
+background-color: #002F6C; border-bottom: 4px solid #97999B;,Fort Wayne
+background-color: #0A5640; border-bottom: 4px solid #FFC72A;,NDSU
+background-color: #009A44; border-bottom: 4px solid #aaaead;,North Dakota
+background-color: #000; border-bottom: 4px solid #D71920;,Omaha
+background-color: #002f60; border-bottom: 4px solid #a28e2a;,Oral Roberts
+background-color: #AD0000; border-bottom: 4px solid #000;,South Dakota
+background-color: #0033A0; border-bottom: 4px solid #FFD100;,South Dakota State
+background-color: #663399; border-bottom: 4px solid #ffcc00;,Western Illinois
+background-color: #222222; border-bottom: 4px solid #FFCC00;,Appalachian State
+background-color: #6e2639; border-bottom: 4px solid #A7A9AC;,Arkansas Little-Rock
+background-color: #cc092f; border-bottom: 4px solid #000000;,Arkansas State
+background-color: #006f71; border-bottom: 4px solid #A27752;,Coastal Carolina
+background-color: #011e41; border-bottom: 4px solid #A3AAAE;,Georgia Southern
+background-color: #0039a6; border-bottom: 4px solid #C60C30;,Georgia State
+background-color: #ce181e; border-bottom: 4px solid #0A0203;,Louisiana
+background-color: #800029; border-bottom: 4px solid #BD955A;,Louisiana-Monroe
+background-color: #00205b; border-bottom: 4px solid #BF0D3E;,South Alabama
+background-color: #0064b1; border-bottom: 4px solid #F58025;,Texas Arlington
+background-color: #501214; border-bottom: 4px solid #8d734a;,Texas State
+background-color: #8a2432; border-bottom: 4px solid #B3B5B8;,Troy Trojans
+background-color: #660000; color: white; border-bottom: 4px solid #fff;,Alabama A&M Bulldogs
+background-color: #c99700; color: white; border-bottom: 4px solid #000000;,Alabama State Hornets
+background-color: #4b306a; color: white; border-bottom: 4px solid #ce8e00;,Alcorn State Braves
+background-color: #eeb310; color: white; border-bottom: 4px solid #E31837;,Arkansas Golden Lions
+background-color: #eaa921; color: white; border-bottom: 4px solid #000000;,Grambling Tigers
+background-color: #002147; color: white; border-bottom: 4px solid #008ED6;,Jackson State Tigers
+background-color: #00703c; color: white; border-bottom: 4px solid #e51937;,Mississippi Delta Devils
+background-color: #330066; color: white; border-bottom: 4px solid #ffcc33;,Prairie View Panthers
+background-color: #58b6e7; color: white; border-bottom: 4px solid #ffce34;,Southern Jaguars
+background-color: #7c183e; color: white; border-bottom: 4px solid #9da6ab;,Texas Southern Tigers
+background-color: #002554; border-bottom: 4px solid #A37400;,California Baptist Lancers
+background-color: #005daa; border-bottom: 4px solid #ffd200;,CSUB Bakersfield
+background-color: #006666; border-bottom: 4px solid #000;,Chicago State
+background-color: #522398; border-bottom: 4px solid #000;,Grand Canyon
+background-color: #005293; border-bottom: 4px solid #fecb00;,UMKC
+background-color: #861f41; border-bottom: 4px solid #000000;,New Mexico State
+background-color: #aa0000; border-bottom: 4px solid #333333;,Seattle University
+background-color: #ffa300; border-bottom: 4px solid #0c2340;,UTRGV
+background-color: #275038; border-bottom: 4px solid #000000;,Utah Valley
+background-color: #002255; border-bottom: 4px solid #C5AF7D;,BYU
+background-color: #041E42; border-bottom: 4px solid #C8102E;,Gonzaga
+background-color: #B62B3A; border-bottom: 4px solid #00447C;,Loyola Marymount
+background-color: #E35205; border-bottom: 4px solid #231F20;,Pacific
+background-color: #00205C; border-bottom: 4px solid #EE7624;,Pepperdine
+background-color: #1E1656; border-bottom: 4px solid #5E6A71;,Portland
+background-color: #06315B; border-bottom: 4px solid #D80024;,Saint Mary’s
+background-color: #002868; border-bottom: 4px solid #84BCE8;,San Diego
+background-color: #00543C; border-bottom: 4px solid #FDBB30;,San Francisco
+background-color: #862633; border-bottom: 4px solid #862633;,Santa Clara
+background-color: #143d8d; color: white; border-bottom: 4px solid #c41230;,American Eagles
+background-color: #d4bf91; color: black; border-bottom: 4px solid #FFD530;,Army Black Knights
+background-color: #cc0000; color: white; border-bottom: 4px solid #ffffff;,Boston University Terriers
+background-color: #e87722; color: white; border-bottom: 4px solid #003865;,Bucknell
+background-color: #821019; color: white; border-bottom: 4px solid #5A646E;,Colgate
+background-color: #602d89; color: white; border-bottom: 4px solid #602d89;,Holy Cross
+background-color: #98002e; color: white; border-bottom: 4px solid #a8996e;,Lafayette Leopards
+background-color: #653600; color: white; border-bottom: 4px solid #994708;,Lehigh Mountain Hawks
+background-color: #00694e; color: white; border-bottom: 4px solid #cacac8;,Loyola (MD) Greyhounds
+background-color: #00205b; color: white; border-bottom: 4px solid #C5B783;,Navy Midshipmen
+background-color: #9e1b32; color: white; border-bottom: 4px solid #828A8f;,Alabama
+background-color: #9D2235; color: white; border-bottom: 4px solid black;,Arkansas
+background-color: #0C2350; color: white; border-bottom: 4px solid #e87722;,Auburn
+background-color: #fa4616; border-bottom: 4px solid #0021a5; color: white;,Florida
+background-color: #ba0c2f; color: white; border-bottom: 4px solid #000;,Georgia
+background-color: #0033a0; color: white; border-bottom: 4px solid #fff;,Kentucky
+background-color: #461d7c; border-bottom: 4px solid #fdd023; color: white;,Louisiana State
+background-color: #13294b; border-bottom: 4px solid #c8102e; color: white;,Mississippi
+background-color: #660000; border-bottom: 4px solid #fff; color: white;,Mississippi State
+background-color: #f1b82d; border-bottom: 4px solid #000000; color: black;,Missouri
+background-color: #73000a; border-bottom: 4px solid black; color: white;,South Carolina
+background-color: #FF8200; color: white; border-bottom: 4px solid #58595b;,Tennessee
+background-color: #500000; color: white; border-bottom: 4px solid white;,Texas A&M
+background-color:#866d4b; border-bottom: 4px solid #000; color: #fff; ,Vanderbilt
